@@ -1,0 +1,226 @@
+/* Seteo general*/
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  margin: auto;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Verdana, sans-serif;
+  background-color: white;
+}
+
+/* header : menu */
+
+header {
+  height: 60px;
+  line-height: 60px;
+  align-items: center;
+}
+
+.menu {
+  background-color: #bfecd8;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.logo {
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s;
+  /*  anima una transición para que no sea brusco el efecto de scale del logo */
+}
+
+.logo:hover {
+  transform: scale(1.5);
+  /*  agranda el loguito cuando el cursor pasa sobre el */
+}
+
+.menu ul {
+  /*  float: right; */
+}
+.menu ul li {
+  display: inline-block;
+  padding: 5px;
+  gap: 10px;
+}
+
+.menu ul li:hover {
+  transform: scale(1.3);
+}
+
+.menu ul li a {
+  text-decoration: none; /*quita el subrayado a los enlaces */
+  display: block; /* el link está en todo el espacio del bloque */
+  padding: 10px;
+  color: grey;
+}
+
+.menu ul li a:hover {
+  background-color: white;
+}
+
+.btn {
+  font-size: 20px;
+  padding: 9px 25px;
+  background: white;
+  color: gray;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+.btn a {
+  text-decoration: none; /*quita el subrayado a los enlaces */
+  color: gray;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  /*  agranda el botón cuando el cursor pasa sobre el */
+}
+
+/* main, hero section: descripción más imagen */
+
+main {
+  height: 600px; /* altura de la seccion */
+  display: flex; /* ubica un item al lado del otro */
+  justify-content: center; /* los alinea horizontalmente */
+  align-items: center; /* los alinea verticalmente */
+  flex-basis: auto; /* dimensiones equitativas entre los elementos */
+  gap: 3%; /* distancia entre los elementos */
+}
+
+.hero_text {
+  color: black;
+  font-size: large;
+  padding: 3%;
+  max-width: 700px;
+}
+
+.hero_img {
+  max-width: 500px;
+}
+
+.hero_img img {
+  max-width: 100%; /* ancho maximo de la imagen respecto al espacio de su contenedor */
+}
+
+/* Sección Educación */
+
+#educacion {
+  background-color: #e8f8f1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding-bottom: 3%;
+}
+
+.item_educacion {
+  background-color: #bfecd8;
+  padding: 3%;
+  width: 500px;
+}
+
+.titulo_educacion {
+  font-size: 30px;
+  padding: 3%;
+}
+
+.item_educacion h3 {
+  margin-bottom: 10px;
+}
+
+/* Sección Experiencia */
+
+#experiencia {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 3%;
+}
+
+.item_exp {
+  display: flex;
+  flex-direction: row;
+  padding: 1%;
+  gap: 15px;
+  max-width: 100%;
+}
+
+.titulo_cargo {
+  background-color: #bfecd8;
+  padding: 3%;
+  width: 250px;
+}
+
+.descripcion_cargo {
+  background-color: #bfecd8;
+  padding: 2%;
+  width: 900px;
+  font-size: large;
+}
+
+.titulo_exp {
+  font-size: 30px;
+  padding: 3%;
+}
+
+/* seccion portafolio */
+
+#portafolio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e8f8f1;
+}
+
+.titulo_portafolio {
+  padding: 3%;
+  font-size: 30px;
+  align-items: center;
+}
+.galeria_portafolio {
+  display: flex; /* un item al lado del otro */
+  gap: 15px; /* con separación entre ellos de 15 px */
+  justify-content: space-evenly; /* alineación horizontal, los elementos se repartirán el espacio sobrante de su contenedor de igual manera a todos sus costados */
+  align-items: center; /* alineación vertical */
+  flex-wrap: wrap; /* permite el desbordamiento en multilinea */
+  padding: 3%; /* espacio interior */
+  height: 350px; /* alto de la sección */
+}
+.portafolio_item {
+  max-width: 30%;
+}
+
+.portafolio_item img {
+  max-width: 100%;
+}
+
+/* sección footer, pie de página */
+
+footer {
+  display: flex;
+  justify-content: center; /* alineación horizontal*/
+  align-items: center; /* alineación vertical */
+  height: 100px; /* altura */
+  background-color: black;
+  color: white;
+  text-align: center;
+  gap: 50px;
+}
+
+footer a:link {
+  color: white;
+}
+
+footer a:hover {
+  color: #bfecd8;
+  cursor: pointer;
+}
