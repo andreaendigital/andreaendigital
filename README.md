@@ -1,4 +1,5 @@
 # Prueba final del Módulo
 
-deploy en : andreaendigital.github.io
-proyectos forkeados:
+- dirección del repositorio: https://github.com/andreaendigital/andreaendigital
+- deploy en : https://andreaendigital.github.io/andreaendigital/
+- proyectos forkeados:
