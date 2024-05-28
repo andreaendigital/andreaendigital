@@ -22,7 +22,8 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 ## Programo en:
 
 https://img.shields.io/badge/logo-javascript-blue?logo=javascript
-[[Static Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript?style=for-the-badge)]
+
+[![Static Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript?style=for-the-badge)]
 
 
 ## Contacto:
