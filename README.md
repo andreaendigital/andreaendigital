@@ -1,4 +1,4 @@
-# ![https://andreaendigital.com] Hola, mi nombre es Andrea Rosero :zap:
+# Hola, mi nombre es Andrea Rosero :zap:
 ### FullStack Developer y Diseñadora Gráfica
 #### Open to Work
 
@@ -16,23 +16,12 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Rosero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrearoseroperez/)
 [![Web](https://img.shields.io/badge/Web-Andreaendigital.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.andreaendigital.com)
+[![Behance](https://img.shields.io/badge/Behance-Andreaendigital-af50e5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](www.behance.net/andrea_rosero
+)
 
+## Contacto:
 
+</br>
+[![Email](https://img.shields.io/badge/andrea.rosero.p@gmail.com-email_personal-3edaf0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
+</br>
 
-
-
-
-
-
-
-
-
-# Prueba final del Módulo
-
-- dirección del repositorio: https://github.com/andreaendigital/andreaendigital
-- deploy en : https://andreaendigital.github.io/andreaendigital/
-- proyectos forkeados y comiteados:
-   - https://github.com/andreaendigital/av_cv    original de: https://github.com/Droopytex/av_cv
-   - https://github.com/andreaendigital/iLAnoth3r.github.io   original de: https://github.com/iLAnoth3r/iLAnoth3r.github.io
-- proyecto forkeado + pull request:
-   - https://github.com/andreaendigital/ZukixEmp.github.io
