@@ -25,3 +25,5 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 [![Email](https://img.shields.io/badge/andrea.rosero.p@gmail.com-email_personal-3edaf0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
 </br>
 
+[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+</br>
