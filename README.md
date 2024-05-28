@@ -21,9 +21,5 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 
 ## Contacto:
 
-</br>
-[![Email](https://img.shields.io/badge/andrea.rosero.p@gmail.com-email_personal-3edaf0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
-</br>
+[![Email](https://img.shields.io/badge/andrea.rosero.p@com-email_personal-BFECD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
 
-[![Email](https://img.shields.io/badge/andrea.rosero.p@com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
-</br>
