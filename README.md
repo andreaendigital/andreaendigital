@@ -23,3 +23,6 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 
 [![Email](https://img.shields.io/badge/andrea.rosero.p@com-email_personal-BFECD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
 
+## Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaendigital)](https://github.com/anuraghazra/github-readme-stats)
+
