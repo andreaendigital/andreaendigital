@@ -19,6 +19,12 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 [![Behance](https://img.shields.io/badge/Behance-Andreaendigital-af50e5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](www.behance.net/andrea_rosero
 )
 
+## Programo en:
+
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+[(https://img.shields.io/badge/logo-javascript-blue?logo=javascript?style=for-the-badge)]
+
+
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/andrea.rosero.p@com-email_personal-BFECD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
