@@ -1,6 +1,8 @@
-# Hola, mi nombre es Andrea Rosero :zap:
-### FullStack Developer y Diseñadora Gráfica
-#### Open to Work
+# You have found me... :zap:  Hello! I'm Andrea :zap: 
+## FullStack Developer and Graphic Designer
+### Open to Work
+
+I am Andrea Rosero, converted Full Stack Developer, Graphic Designer by profession. I currently live in Santiago de Chile.
 
 Soy Andrea Rosero, Desarrolladora Full Stack reconvertida, Diseñadora Gráfica de profesión. Vivo actualmente en Santiago de Chile. 
 Tengo experiencia digitalizando procesos y capacitando digitalmente a personas, logrando transformaciones digitales de emprendimientos y microempresas. Soy autodidacta en el área del marketing digital, en constante formación con cursos online certificados. He llevado a cabo procesos comerciales y de marketing, desarrollando mis habilidades de planificación estratégica, comunicación y ventas. Tengo una fuerte orientación al servicio al cliente tanto externo como interno con foco en los detalles y calidad de servicio. Tengo habilidades de trabajo en equipo multiculturales y liderazgo orientado al logro. Tengo amplia experiencia con la modalidad de trabajo a distancia.
@@ -25,7 +27,7 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 
 ## :desert_island: My Personal Stack:
 
-### :superhero_woman: Lenguajes de programación
+### :superhero_woman: Programming Languages
 
 ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -40,7 +42,7 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
-### :hamburger: Base de datos
+### :hamburger: Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
