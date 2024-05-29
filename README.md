@@ -1,6 +1,6 @@
 # You have found me... :zap:  Hello! I'm Andrea :zap: 
 ## FullStack Developer and Graphic Designer
-### Open to Work
+### :money_with_wings: :money_with_wings:  Open to Work
 
 I am Andrea Rosero, converted Full Stack Developer since 2024, Graphic Designer by profession since 2014. I currently live in Santiago de Chile.
 
@@ -12,18 +12,16 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 
 ## :crystal_ball: Check this out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Rosero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrearoseroperez/)  
-[![Web](https://img.shields.io/badge/Web-Andreaendigital.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.andreaendigital.com)  
-[![Behance](https://img.shields.io/badge/Behance-Andreaendigital-af50e5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](www.behance.net/andrea_rosero
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Rosero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrearoseroperez/)  [![Web](https://img.shields.io/badge/Web-Andreaendigital.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.andreaendigital.com)  [![Behance](https://img.shields.io/badge/Behance-Andreaendigital-af50e5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](www.behance.net/andrea_rosero
 )
 
-## Finde me on:
+## :fire: Finde me on:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Andrea_en_digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@andreaendigital)
 [![Instagram](https://img.shields.io/badge/Instagram-@andreaendigital-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/andreaendigital)
 [![Facebook](https://img.shields.io/badge/Facebook-@andreaendigital-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/AndreaRoseroOfficial)
 
-## Contact me:
+## :e-mail: Contact me:
 
 [![Email](https://img.shields.io/badge/andrea.rosero.p@com-email_personal-BFECD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
 
