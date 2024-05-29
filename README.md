@@ -2,7 +2,7 @@
 ## FullStack Developer and Graphic Designer
 ### Open to Work
 
-I am Andrea Rosero, converted Full Stack Developer, Graphic Designer by profession. I currently live in Santiago de Chile.
+I am Andrea Rosero, converted Full Stack Developer since 2024, Graphic Designer by profession since 2014. I currently live in Santiago de Chile.
 
 Soy Andrea Rosero, Desarrolladora Full Stack reconvertida, Diseñadora Gráfica de profesión. Vivo actualmente en Santiago de Chile. 
 Tengo experiencia digitalizando procesos y capacitando digitalmente a personas, logrando transformaciones digitales de emprendimientos y microempresas. Soy autodidacta en el área del marketing digital, en constante formación con cursos online certificados. He llevado a cabo procesos comerciales y de marketing, desarrollando mis habilidades de planificación estratégica, comunicación y ventas. Tengo una fuerte orientación al servicio al cliente tanto externo como interno con foco en los detalles y calidad de servicio. Tengo habilidades de trabajo en equipo multiculturales y liderazgo orientado al logro. Tengo amplia experiencia con la modalidad de trabajo a distancia.
@@ -10,7 +10,7 @@ Tengo experiencia digitalizando procesos y capacitando digitalmente a personas, 
 Estoy segura que toda mi experiencia previa aportará en mi desempeño en este nuevo camino que quiero iniciar como Full Stack.
 Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puedes ver mi trabajo en mi página web o en mis portafolios online tanto de diseño como de programación en los siguientes links y plataformas:
 
-## Encuéntrame en:
+## Finde me on:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Andrea_en_digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@andreaendigital)
 [![Instagram](https://img.shields.io/badge/Instagram-@andreaendigital-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/andreaendigital)
@@ -21,11 +21,15 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 [![Behance](https://img.shields.io/badge/Behance-Andreaendigital-af50e5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](www.behance.net/andrea_rosero
 )
 
-## Contacto:
+## Contact me:
 
 [![Email](https://img.shields.io/badge/andrea.rosero.p@com-email_personal-BFECD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
 
+
+
 ## :desert_island: My Personal Stack:
+
+
 
 ### :superhero_woman: Programming Languages
 
