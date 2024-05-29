@@ -19,13 +19,50 @@ Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puede
 [![Behance](https://img.shields.io/badge/Behance-Andreaendigital-af50e5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](www.behance.net/andrea_rosero
 )
 
-
-
-
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/andrea.rosero.p@com-email_personal-BFECD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andrea.rosero.p@gmail.com)
 
-## Stats. In 6 months:
+### ** Lenguajes de programación** :superhero_woman:
+
+![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### ** Frontend :genie_woman:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backend :mermaid:
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+### :hamburger: Base de datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### :pizza: Software
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dbeaver](https://img.shields.io/badge/Dbeaver-009B76?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Adobe Cloud](https://img.shields.io/badge/Adobe_Cloud-FF0000?style=for-the-badge&logo=adobe-cloud&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### :ramen: Sistemas Operativos
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+
+### :lollipop: Version control system
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+## Stats. :cake: In 6 months:
 [![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaendigital&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
