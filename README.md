@@ -10,16 +10,18 @@ Tengo experiencia digitalizando procesos y capacitando digitalmente a personas, 
 Estoy segura que toda mi experiencia previa aportará en mi desempeño en este nuevo camino que quiero iniciar como Full Stack.
 Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puedes ver mi trabajo en mi página web o en mis portafolios online tanto de diseño como de programación en los siguientes links y plataformas:
 
+## :crystal_ball: Check this out:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Rosero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrearoseroperez/)  
+[![Web](https://img.shields.io/badge/Web-Andreaendigital.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.andreaendigital.com)  
+[![Behance](https://img.shields.io/badge/Behance-Andreaendigital-af50e5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](www.behance.net/andrea_rosero
+)
+
 ## Finde me on:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Andrea_en_digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@andreaendigital)
 [![Instagram](https://img.shields.io/badge/Instagram-@andreaendigital-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/andreaendigital)
 [![Facebook](https://img.shields.io/badge/Facebook-@andreaendigital-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/AndreaRoseroOfficial)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Rosero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrearoseroperez/)
-[![Web](https://img.shields.io/badge/Web-Andreaendigital.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.andreaendigital.com)
-[![Behance](https://img.shields.io/badge/Behance-Andreaendigital-af50e5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](www.behance.net/andrea_rosero
-)
 
 ## Contact me:
 
