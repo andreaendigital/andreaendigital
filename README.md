@@ -4,8 +4,11 @@
 
 I am Andrea Rosero, converted Full Stack Developer since 2024, Graphic Designer by profession since 2014. I currently live in Santiago de Chile.
 
-Soy Andrea Rosero, Desarrolladora Full Stack reconvertida, Diseñadora Gráfica de profesión. Vivo actualmente en Santiago de Chile. 
-Tengo experiencia digitalizando procesos y capacitando digitalmente a personas, logrando transformaciones digitales de emprendimientos y microempresas. Soy autodidacta en el área del marketing digital, en constante formación con cursos online certificados. He llevado a cabo procesos comerciales y de marketing, desarrollando mis habilidades de planificación estratégica, comunicación y ventas. Tengo una fuerte orientación al servicio al cliente tanto externo como interno con foco en los detalles y calidad de servicio. Tengo habilidades de trabajo en equipo multiculturales y liderazgo orientado al logro. Tengo amplia experiencia con la modalidad de trabajo a distancia.
+Desarrolladora Full Stack formación intensiva a través de la Beca Talento Digital para Chile con Academia Desafío Latam. Diseñadora Gráfica de profesión, abierto a nuevas oportunidades laborales con disponibilidad inmediata para comenzar en un rol a tiempo completo como FullStack Jr para continuar mi transición al sector tecnológico con interés en crecer y especializarme como DevOps.
+
+Soy una profesional creativa y curiosa, apasionada por el aprendizaje continuo. Combino mis habilidades en diseño gráfico con competencias técnicas en desarrollo FullStack para lograr experiencias atractivas y funcionales. He liderado transformaciones digitales, digitalizando procesos y capacitando personas, además de ofrecer soluciones gráficas y estratégicas a diversos clientes.
+
+Con 10 años de experiencia laboral, he demostrado habilidades en comunicación, ventas y servicio al cliente,  trabajo remoto y equipos multiculturales. Mi objetivo es crecer profesionalmente en el campo IT, aprendiendo y especializándome tanto en frameworks, plataformas, metodologías, seguridad, microservicios como en variedad de herramientas de desarrollo.
 
 Estoy segura que toda mi experiencia previa aportará en mi desempeño en este nuevo camino que quiero iniciar como Full Stack.
 Puedes contactarme a través de mi web, email, whatsapp o redes sociales y puedes ver mi trabajo en mi página web o en mis portafolios online tanto de diseño como de programación en los siguientes links y plataformas:
